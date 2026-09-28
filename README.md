@@ -61,7 +61,7 @@ Type `b` is also the only store type associated with Assortment `b`, making it i
 
 Among the standard store types (`a`, `c`, and `d`), stores carrying Assortment `c` consistently record higher average daily sales than those carrying Assortment `a`.
 
-![Sales by Store Type and Assortment]([images/sales_by_store_type.png](https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
+![Sales by Store Type and Assortment]((https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
 
 ### 3. The Impact of Promotions
 
@@ -71,7 +71,7 @@ The analysis also reveals that active promotions are absent on Saturdays and Sun
 
 These findings describe observed associations and do not, by themselves, establish causation.
 
-![Promotional Impact on Sales]([images/promo_analysis.png](https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
+![Promotional Impact on Sales]([(https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
 
 ### 4. Seasonality and Time-Series Trends
 Monthly trends and heatmap analyses reveal recurring seasonal patterns in store sales.
@@ -80,7 +80,7 @@ Sales experience a noticeable mid-year decline, particularly in July. In contras
 
 These patterns highlight the importance of accounting for seasonality when planning inventory, staffing, and promotional budgets.
 
-![Monthly Sales Heatmap]([images/monthly_sales_heatmap.png](https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
+![Monthly Sales Heatmap]((https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
 
 ## Strategic Business Recommendations
 
