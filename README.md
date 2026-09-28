@@ -51,7 +51,7 @@ Both daily sales and sales per customer exhibit substantial right skew. Some sto
 
 In contrast, sales per customer are more concentrated around €10, suggesting that variations in total daily revenue may be associated more closely with customer volume than with changes in average spending.
 
-![Sales Distribution and Outlier Analysis]([images/outlieranalysis.png](https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png))
+![Sales Distribution and Outlier Analysis](images/outlieranalysis.png](https://github.com/sebmungai/Rossman-Sales-Analysis/blob/main/Images/outlieranalysis.png)
 
 ### 2. Store Type and Assortment Performance
 
